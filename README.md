@@ -1,6 +1,6 @@
 # Kubernetes Node Demo
 
-This is a basic Node.js Express application deployed using Docker and Kubernetes. The goal of this project was to practice building, containerizing, and deploying an application into a local Kubernetes cluster using Minikube on WSL2 — no cloud resources involved.
+This is a basic Node.js Express application deployed using Docker and Kubernetes. The goal of this project was to practice building, containerizing, and deploying an application into a local Kubernetes cluster using Minikube on WSL2..
 
 ## Features
 
